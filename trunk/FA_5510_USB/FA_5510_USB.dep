@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>888267595</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_FLASH.c</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\hal_macros.h</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_FLASH.h</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_PMAP.c</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_PMAP.h</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_PMM.c</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_PMM.h</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_TLV.c</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_TLV.h</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_UCS.c</file>
+      <file>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_UCS.h</file>
+      <file>$PROJ_DIR$\MCU_Devices\ADC_Ctrl.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\ADC_Test.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\Charger_Function_Control.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\ChargerIOFunctionControl.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\Clock_Config.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\I2C_Master.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\IIC_Master.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\InformationFlash_Memory_Define.h</file>
+      <file>$PROJ_DIR$\MCU_Devices\InformationFlashAccess.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\IO_Config.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\MCU_Devices.h</file>
+      <file>$PROJ_DIR$\MCU_Devices\Mux_Control.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\Port2_IO.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\Power_Management_Module_Config.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\SystemFunctionControl.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\TimerA.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\TimerB.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\TypeDefine.h</file>
+      <file>$PROJ_DIR$\MCU_Devices\UART_Module1_Config.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\UART_Module2_Config.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port2_IO.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\descriptors.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usbConstructs.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_PMAP.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\CheckSum16.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ucs.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usbEventHandling.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_FLASH.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_TLV.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART_Module1_Config.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmm.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\FA_5510_USB.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\sfr.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ModBus_CRC16.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_a.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\msp_dma.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\DUI_For_UART.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc10_a.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usb.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\CheckSum16.r43</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\wdt_a.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_TLV.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\FA_5510_USB.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\I2C_Master.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DUI_For_USB_CDC.r43</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\inc\hw_memmap.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimerA.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DUI_For_USB_CDC.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ModBus_CRC16.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_b.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\I2C_Master.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_uartbaudrate.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_FLASH.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xsfn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ucs.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\FA_5510_USB.ulp</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART_Module1_Config.r43</file>
+      <file>$PROJ_DIR$\USB_API\USB_HID_API\UsbHidReq.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_b_i2c.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\SystemFunctionControl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\InformationFlashAccess.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\dma.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dma.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Clock_Config.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SystemConfigInitialDataForFlash.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\sfr.r43</file>
+      <file>$TOOLKIT_DIR$\config\multiplier32_loc2.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_uartbaudrate.pbi</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F5510.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART_Module2_Config.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_a.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usbConstructs.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\DUI_For_Peripheral_Control.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimerB.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\ref.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\descriptors.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\assert.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\UsbIsr.pbi</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\deprecated\IAR\msp430xgeneric.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_UCS.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimerB.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\IO_Config.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_PMAP.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimerA.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\UsbIsr.r43</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xsfn.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_b_i2c.pbi</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\inc\hw_regaccess.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Power_Management_Module_Config.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usb.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\DUI_For_Peripheral_Control.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\USB_CDC_Config.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\USB_CDC_Config.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usbEventHandling.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Clock_Config.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer_b.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.r43</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\dma.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ChargerIOFunctionControl.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc10_a.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC_Ctrl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ChargerIOFunctionControl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\UsbCdc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_uart.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\DUI_For_UART.pbi</file>
+      <file>$PROJ_DIR$\USB_API\USB_MSC_API\UsbMscScsi.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC_Ctrl.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\usci_a_uart.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_PMM.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\msp_dma.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\UsbCdc.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_UCS.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmm.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\HAL_PMM.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Mux_Control.r43</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART_Module2_Config.pbi</file>
+      <file>$PROJ_DIR$\USB_API\USB_PHDC_API\UsbPHDC.h</file>
+      <file>$PROJ_DIR$\USB_API\USB_HID_API\UsbHid.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Mux_Control.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Power_Management_Module_Config.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\SystemFunctionControl.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430f5510.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ref.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\InformationFlashAccess.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port2_IO.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\IO_Config.r43</file>
+      <file>$PROJ_DIR$\MCU_Devices\USB_CDC_Config.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\usbConstructs.c</file>
+      <file>$PROJ_DIR$\MCU_Devices\usbConstructs.h</file>
+      <file>$PROJ_DIR$\MCU_Devices\usbEventHandling.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\adc10_a.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\adc10_a.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\flash.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\flash.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\gpio.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\gpio.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\msp_dma.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\msp_dma.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\pmm.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\pmm.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\ref.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\ref.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\sfr.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\sfr.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\timer_a.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\timer_a.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\timer_b.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\timer_b.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\ucs.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\ucs.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_a_uart.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_a_uart.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_a_uartbaudrate.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_a_uartbaudrate.h</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_b_i2c.c</file>
+      <file>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_b_i2c.h</file>
+      <file>$PROJ_DIR$\USB_API\USB_CDC_API\UsbCdc.c</file>
+      <file>$PROJ_DIR$\USB_API\USB_CDC_API\UsbCdc.h</file>
+      <file>$PROJ_DIR$\USB_API\USB_Common\defMSP430USB.h</file>
+      <file>$PROJ_DIR$\USB_API\USB_Common\device.h</file>
+      <file>$PROJ_DIR$\USB_API\USB_Common\dma.c</file>
+      <file>$PROJ_DIR$\USB_API\USB_Common\types.h</file>
+      <file>$PROJ_DIR$\USB_API\USB_Common\usb.c</file>
+      <file>$PROJ_DIR$\USB_API\USB_Common\usb.h</file>
+      <file>$PROJ_DIR$\USB_API\USB_Common\UsbIsr.h</file>
+      <file>$PROJ_DIR$\Utilities\CheckSum16.c</file>
+      <file>$PROJ_DIR$\USB_config\descriptors.c</file>
+      <file>$PROJ_DIR$\USB_config\descriptors.h</file>
+      <file>$PROJ_DIR$\USB_config\UsbIsr.c</file>
+      <file>$PROJ_DIR$\Utilities\ModBus_CRC16.c</file>
+      <file>$PROJ_DIR$\Utilities\Utilities.h</file>
+      <file>$PROJ_DIR$\DUI_For_Peripheral_Control.c</file>
+      <file>$PROJ_DIR$\DUI_For_Peripheral_Control.h</file>
+      <file>$PROJ_DIR$\DUI_For_UART.c</file>
+      <file>$PROJ_DIR$\DUI_For_UART.h</file>
+      <file>$PROJ_DIR$\DUI_For_USB_CDC.c</file>
+      <file>$PROJ_DIR$\DUI_For_USB_CDC.h</file>
+      <file>$PROJ_DIR$\FA_HW_FunctionBitDefine.h</file>
+      <file>$PROJ_DIR$\FA_MainSystemConfigDefineVarsForFlash.h</file>
+      <file>$PROJ_DIR$\Global_Vars_Define.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\SystemConfigDefineForFlash.h</file>
+      <file>$PROJ_DIR$\SystemConfigInitialDataForFlash.s43</file>
+      <file>$PROJ_DIR$\Vars_Bit_Define.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_FLASH.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 147 97 139 2 67 88 128 58 66 144 125 129</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 147 97 139 2 67 88 128 58 66 144 125 129</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_PMAP.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 147 97 139 4 67 88 128 58 66 144 125 129</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 147 97 139 4 67 88 128 58 66 144 125 129</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_PMM.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 130</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 147 97 139 6 67 88 128 58 66 144 125 129 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 147 97 139 6 67 88 128 58 66 144 125 129 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_TLV.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 147 97 139 8 67 88 128 58 66 144 125 129</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 147 97 139 8 67 88 128 58 66 144 125 129</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\F5xx_F6xx_Core_Lib\HAL_UCS.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 133</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 79 147 97 139 10 67 88 128 58 66 144 125 129 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79 147 97 139 10 67 88 128 58 66 144 125 129 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\ADC_Ctrl.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 159 169 165 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 159 169 165 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\ChargerIOFunctionControl.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 117</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 169 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 169 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\Clock_Config.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 113</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 57 67 88 128 58 66 144 125 129 163 106 177 171 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 57 67 88 128 58 66 144 125 129 163 106 177 171 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\I2C_Master.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 57 67 88 128 58 66 144 125 129 177 106 163 183 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 57 67 88 128 58 66 144 125 129 177 106 163 183 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\InformationFlashAccess.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 150</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 161 106 18 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 161 106 18 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\IO_Config.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 153</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 57 67 88 128 58 66 144 125 129 163 106 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 57 67 88 128 58 66 144 125 129 163 106 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\Mux_Control.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 138</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\Port2_IO.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 152</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 57 67 88 128 58 66 144 125 129 163 106 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 57 67 88 128 58 66 144 125 129 163 106 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\Power_Management_Module_Config.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 107</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 145</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 167 106 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 167 106 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\SystemFunctionControl.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 146</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 169 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 169 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\TimerA.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 57 67 88 128 58 66 144 125 129 173 106 52 163 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 57 67 88 128 58 66 144 125 129 173 106 52 163 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\TimerB.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 57 67 88 128 58 66 144 125 129 175 106 52 163 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 57 67 88 128 58 66 144 125 129 175 106 52 163 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\UART_Module1_Config.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 177 179 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 177 179 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\UART_Module2_Config.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 177 179 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 79 147 97 139 67 88 128 58 66 144 125 129 163 106 177 179 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\FA_5510_USB.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 84 82 126 117 51 78 109 48 56 38 34 130 53 133 63 153 75 44 138 31 107 80 146 102 99 71 85 111 132 103 49 32 77 91 115 137 47 135 148 81 45 62 36 108 87 37 122 64 73 104</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\USB_CDC_Config.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 111</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 139 69 88 128 58 66 144 125 129 46 195 189 187 79 147 97 191 185 156 21 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 139 69 88 128 58 66 144 125 129 46 195 189 187 79 147 97 191 185 156 21 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\usbConstructs.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 195 191 185 156</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 195 191 185 156</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MCU_Devices\usbEventHandling.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 186 195 191 10 67 88 128 58 66 144 125 129 1 185</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 186 195 191 10 67 88 128 58 66 144 125 129 1 185</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\adc10_a.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 159 96 97 139 94</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 159 96 97 139 94</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\flash.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 134</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 161 96 97 139</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 161 96 97 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\gpio.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 149</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 163 96 97 139 79 147</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 163 96 97 139 79 147</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\msp_dma.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 116 96 97 139 94</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 116 96 97 139 94</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\pmm.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 135</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 167 96 97 139</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 167 96 97 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\ref.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 92</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 169 96 97 139</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 169 96 97 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\sfr.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 171 96 97 139 94</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 171 96 97 139 94</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\timer_a.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 173 96 97 139</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 173 96 97 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\timer_b.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 114</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 175 96 97 139</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 175 96 97 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\ucs.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 57 79 147 97 139 177 96 94</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 57 79 147 97 139 177 96 94</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_a_uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 179 181 96 97 139</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 179 181 96 97 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_a_uartbaudrate.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 181 96 97 139</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 181 96 97 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TI_DriverLib\MSP430F5xx_6xx\usci_b_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 183 96 97 139</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 67 88 128 58 66 144 125 129 94 183 96 97 139</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\USB_API\USB_CDC_API\UsbCdc.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 132</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 195 189 187 79 147 97 139 186 191 185 69 88 128 58 66 144 125 129 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 195 189 187 79 147 97 139 186 191 185 69 88 128 58 66 144 125 129 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\USB_API\USB_Common\dma.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 186 195 69 88 128 58 66 144 125 129 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 186 195 69 88 128 58 66 144 125 129 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\USB_API\USB_Common\usb.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 108</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 186 191 185 141 72 124 195 10 67 88 128 58 66 144 125 129 1 8 69 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 186 191 185 141 72 124 195 10 67 88 128 58 66 144 125 129 1 8 69 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Utilities\CheckSum16.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\USB_config\descriptors.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 186 191 195 185 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 186 191 195 185 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\USB_config\UsbIsr.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 103</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 187 79 147 97 139 189 186 195 191 192 69 88 128 58 66 144 125 129 46 185 142 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 79 147 97 139 189 186 195 191 192 69 88 128 58 66 144 125 129 46 185 142 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Utilities\ModBus_CRC16.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DUI_For_Peripheral_Control.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 21 28 207 211 198 200 209 18 204</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 28 207 211 198 200 209 18 204</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DUI_For_UART.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 21 28 198 202 200 204</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 28 198 202 200 204</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DUI_For_USB_CDC.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 207 211 209 18 21 28 198 204 200 202</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 207 211 209 18 21 28 198 204 200 202</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 137</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 151</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 139 69 88 128 58 66 144 125 129 46 207 211 209 18 195 189 187 79 147 97 191 10 67 1 6 185 163 106 28 204 202 200</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 139 69 88 128 58 66 144 125 129 46 207 211 209 18 195 189 187 79 147 97 191 10 67 1 6 185 163 106 28 204 202 200</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\SystemConfigInitialDataForFlash.s43</name>
+      <outputs>
+        <tool>
+          <name>A430</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>A430</name>
+          <file> 209 18 206 205</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
